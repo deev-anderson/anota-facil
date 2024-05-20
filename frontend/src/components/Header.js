@@ -32,7 +32,7 @@ function Header({ setSearch }) {
       style={{ border: "none" }}
     >
       <Container>
-        <Navbar.Brand href="/">NotaFácil</Navbar.Brand>
+        <Navbar.Brand href="/">AnotaFácil</Navbar.Brand>
 
         <Navbar.Toggle aria-controls="responsive-navbar-nav" />
         <Navbar.Collapse id="responsive-navbar-nav">

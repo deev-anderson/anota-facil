@@ -20,7 +20,7 @@ function LandingPage({ history }) {
         <Row>
           <div className="intro-text">
             <div>
-              <h1 className="title">NotaFácil</h1>
+              <h1 className="title">AnotaFácil</h1>
               <p className="subtitle">
                 Crie e gerencie suas notas de maneira prática
               </p>
