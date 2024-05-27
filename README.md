@@ -12,7 +12,6 @@
 ![image](https://github.com/deev-anderson/anota-facil/assets/160505511/9c0c398f-f986-439b-845e-8b394c008de3)
 
 ### Login
-You can register a new account or login with an existing one.
 
 ![image](https://github.com/deev-anderson/anota-facil/assets/160505511/a496996b-8f1c-46ba-9378-37fd7c6b6dba)
 
